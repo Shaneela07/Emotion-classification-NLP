@@ -64,7 +64,7 @@ Our goal is to build different models that can accurately detect emotions from r
    **Insights from Misclassifications**  
    - Some sentences contain **overlapping emotional tones**, making them difficult for ML models.  
    - Certain minority classes (e.g., *fear*, *disgust*) may have fewer training samples → leading to lower precision.  
-   - Error analysis provides **guidance for future improvements** (e.g., balancing dataset, using advanced models like BERT).  
+   - Error analysis provides **guidance for future improvements** (e.g., balancing dataset,Using Deep Learning model).  
 
 ✅ This process ensures the project not only reports the best accuracy but also provides **transparency on where the model struggles**, making the work more **research-driven and credible**.  
 
