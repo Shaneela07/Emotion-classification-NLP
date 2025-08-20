@@ -58,10 +58,10 @@ Our goal is to build different models that can accurately detect emotions from r
 5. **Error Analysis**  
    - Created a **comparison dataframe** of true vs. predicted labels.  
    - Mapped text labels to numerical values for easier analysis.  
-   - Extracted **misclassified samples** to understand common failure cases (e.g., confusing *joy* with *surprise*).  
-     ```
+   - Extracted **misclassified samples** to understand common failure cases (e.g., confusing *joy* with *surprise*).
+  
 
-   **Insights from Misclassifications**  
+     **Insights from Misclassifications**  
    - Some sentences contain **overlapping emotional tones**, making them difficult for ML models.  
    - Certain minority classes (e.g., *fear*, *disgust*) may have fewer training samples → leading to lower precision.  
    - Error analysis provides **guidance for future improvements** (e.g., balancing dataset,Using Deep Learning model).  
