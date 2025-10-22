@@ -68,4 +68,16 @@ Our goal is to build different models that can accurately detect emotions from r
 
 ✅ This process ensures the project not only reports the best accuracy but also provides **transparency on where the model struggles**, making the work more **research-driven and credible**.  
 
+## 📬 Connect With Me
+
+Feel free to raise issues or contribute improvements to enhance forecasting accuracy and efficiency!
+
+**👩‍💻 Shanila Anjum**
+
+📧 [shanilaanjum07@gmail.com](mailto:shanilaanjum07@gmail.com)
+🌐 [GitHub Profile](https://github.com/Shaneela07)
+ [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//shaneela-anjum/)
+
+
+
 
