@@ -70,7 +70,7 @@ Our goal is to build different models that can accurately detect emotions from r
 
 ## 📬 Connect With Me
 
-Feel free to raise issues or contribute improvements to enhance forecasting accuracy and efficiency!
+Feel free to raise issues or contribute improvements to enhance project accuracy and efficiency!
 
 **👩‍💻 Shanila Anjum**
 
