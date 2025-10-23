@@ -78,7 +78,7 @@ Feel free to raise issues or contribute improvements to enhance project accuracy
 
 🌐 [GitHub Profile](https://github.com/Shaneela07)
 
- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//shaneela-anjum/)
+ 🔗 <a href="https://www.linkedin.com/in/shaneela-anjum/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
 
